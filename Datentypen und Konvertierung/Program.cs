@@ -74,5 +74,3 @@ Console.WriteLine("Geben Sie Die Variable ein!");
 string v1_str = Console.ReadLine();
 
 short v1_int = Convert.ToInt16(v1_str);
-
-Console.WriteLine(v1_str);
